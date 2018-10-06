@@ -1,7 +1,5 @@
-from flask import Flask, render_template
-# from jinja2 import Template
-# import requests
-# import os
+from flask import Flask, render_template, requests
+
 
 app = Flask(__name__)
 
